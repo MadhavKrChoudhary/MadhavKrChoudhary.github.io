@@ -5,6 +5,7 @@
 - Indian Institute of Technology, Madras
   - B.S in Data Science and Application CGPA: 8.1/10
   - [click to see Student profile](https://app.onlinedegree.iitm.ac.in/student/21F1002945)
+
 ### Skill
 
 ### Project
