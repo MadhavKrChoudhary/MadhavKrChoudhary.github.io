@@ -19,6 +19,7 @@
   - AI skill challenge (Aug)
 - HackerRank:
   - DBMS SQL(Basic)
+  - Intermediate SQL
 - Kaggle :
   - Python
   - Pandas
